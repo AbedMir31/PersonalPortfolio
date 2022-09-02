@@ -33,18 +33,15 @@ export const Footer = () => {
               </a>
             </div>
             <p>
-              background by{" "}
               <a
                 style={{ color: "white" }}
                 href="https://www.freepik.com/free-vector/flat-design-abstract-background_18773920.htm#page=2&query=abstract%20background&position=48&from_view=search"
               >
-                Freepik
+                Background
               </a>
-            </p>
-            <p>
-              icons by{" "}
+              <br></br>
               <a style={{ color: "white" }} href="https://icons8.com/">
-                Icons8
+                Icons
               </a>
             </p>
           </Col>
